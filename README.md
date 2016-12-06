@@ -16,7 +16,7 @@ You can do this by typing the following in the terminal on mac:
 ```markdown
 git commit -m "[message here]"
 ```
-For windows users:
+<b>For windows users:</b>
 <br/>
 Go to the location on your computer where you pulled index.html and right click the folder.
 <br/>
