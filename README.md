@@ -11,13 +11,11 @@
 <br/>
 The next step is committing your edit in index.html.
 <br/>
-You can do this by typing
+You can do this by typing the following in the terminal on mac:
 <br/>
 ```markdown
 git commit -m "[message here]"
 ```
-in the terminal on mac.
-<br/>
 For windows users:
 <br/>
 Go to the location on your computer where you pulled index.html and right click the folder.
