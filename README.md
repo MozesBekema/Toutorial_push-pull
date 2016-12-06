@@ -9,11 +9,22 @@
 4. now try to change a few lines of code and save it.
 <br/>
 <br/>
-The next step is committing your edit in index.html You can do this by typing
+The next step is committing your edit in index.html.
+<br/>
+You can do this by typing
 <br/>
 ```markdown
 git commit -m "[message here]"
 ```
+<br/>
+in the terminal on mac.
+<br/>
+For windows users:
+<br/>
+Go to the location on your computer where you pulled index.html and right click the folder.
+<br/>
+Now click 'Git BASH here'
+<br/>
 Note: you need to add a message everytime you commit your files, otherwise it will give you a error.
 <br/>
 After committing you type the following to push your files to the selected:
