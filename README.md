@@ -16,7 +16,7 @@ You can do this by typing
 ```markdown
 git commit -m "[message here]"
 ```
-    in the terminal on mac.
+     in the terminal on mac.
 <br/>
 For windows users:
 <br/>
