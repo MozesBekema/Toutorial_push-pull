@@ -19,7 +19,7 @@ git commit -m "[message here]"
 Note: you need to add a message everytime you commit your files, otherwise it will give you a error.
 <br/>
 After committing you type the following to push your files to the selected:
-```markdown
+```markdownd
 git push
 ```
 <br/>
