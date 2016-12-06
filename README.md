@@ -6,4 +6,9 @@ Before you push a file you want to commit it first. You can do this by typing
 ```html
 git commit -m "[message here]"
 ```
-
+Note: you need to add a message everytime you commit your files, otherwise it will give you a error.
+<br/>
+After committing you type the following:
+```html
+git commit -m "[message here]"
+```
