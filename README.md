@@ -14,7 +14,7 @@ The next step is committing your edit in index.html You can do this by typing
 ```markdown
 git commit -m "[message here]"
 ```
-Note:. you need to add a message everytime you commit your files, otherwise it will give you a error.
+Note: you need to add a message everytime you commit your files, otherwise it will give you a error.
 <br/>
 After committing you type the following to push your files to the selected:
 ```markdown
