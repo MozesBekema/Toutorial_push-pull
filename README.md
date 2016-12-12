@@ -11,7 +11,8 @@
 <br/>
 The next step is committing your edit in index.html.
 <br/>
-You can do this by typing the following in the terminal on <b>mac</b>:
+<b>For Mac users:</b><br/>
+You can do this by typing the following in the terminal:
 <br/>
 ```markdown
 git commit -m "[message here]"
@@ -20,7 +21,7 @@ git commit -m "[message here]"
 <br/>
 Go to the location on your computer where you pulled index.html and right click the folder.
 <br/>
-Now click 'Git BASH here'
+Now click 'Git BASH here', now type the same command line as shown above.
 <br/>
 Note: you need to add a message everytime you commit your files, otherwise it will give you a error.
 <br/>
