@@ -1,12 +1,12 @@
 # How to push and pull an existing project via git bash
 
-- [x] Download the files from this reposetorie.
+- [ ] Download the files from this reposetorie.
 <br/>
-- [x] Open your folder where u are using git.
+- [ ] Open your folder where u are using git.
 <br/>
-- [x] place the files in the folder.
+- [ ] place the files in the folder.
 <br/>
-- [x] now try to change a few lines of code and save it.
+- [ ] now try to change a few lines of code and save it.
 
 <br/>
 <br/>
