@@ -9,11 +9,11 @@
 4. now try to change a few lines of code and save it.
 <br/>
 <br/>
-   The next step is committing your edit in index.html.
+The next step is committing your edit in index.html.
 <br/>
 <b>For Mac users:</b><br/>
 You can do this by typing the following in the terminal:
-<br/>Update
+<br/>
 ```markdown
 git commit -m "[message here]"
 ```
