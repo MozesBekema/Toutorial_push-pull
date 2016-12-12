@@ -7,6 +7,8 @@
 3. place the files in the folder.
 <br/>
 4. now try to change a few lines of code and save it.
+<br/>
+<br/>
 The next step is committing your edit in index.html.
 <br/>
 <b>For Mac users:</b><br/>
