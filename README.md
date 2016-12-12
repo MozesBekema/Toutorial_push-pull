@@ -1,12 +1,12 @@
 # How to push and pull an existing project via git bash
 
-1. Download the files from this reposetorie.
+Download the files from this reposetorie.
 <br/>
-2. Open your folder where u are using git.
+Open your folder where u are using git.
 <br/>
-3. place the files in the folder.
+place the files in the folder.
 <br/>
-4. now try to change a few lines of code and save it.
+now try to change a few lines of code and save it.
 <br/>
 <br/>
 The next step is committing your edit in index.html.
@@ -21,7 +21,7 @@ git commit -m "[message here]"
 <br/>
 Go to the location on your computer where you pulled index.html and right click the folder.
 <br/>
-Now click 'Git BASH here', now type the same command line as shown above.
+Now click 'Git BASH here', after this you type the same command line as shown above.
 <br/>
 Note: you need to add a message everytime you commit your files, otherwise it will give you a error.
 <br/>
