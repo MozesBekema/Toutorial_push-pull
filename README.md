@@ -10,7 +10,7 @@
 
 <br/>
 <br/>
-**The next step is committing your edit in index.html.**
+The next step is committing your edit in index.html.
 <br/>
 <b>For Mac users:</b><br/>
 You can do this by typing the following in the terminal:
