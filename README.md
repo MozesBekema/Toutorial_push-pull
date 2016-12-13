@@ -18,6 +18,7 @@ git commit -m "[message here]"
 ```
 Note: you need to add a message everytime you commit your files, otherwise it will give you a error.
 <br/>
+<br/>
 <b>For windows users:</b>
 <br/>
 Go to the location on your computer where you pulled index.html and right click the folder.
