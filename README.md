@@ -29,5 +29,4 @@ After committing you type the following to push your files to the selected:
 ```markdown
 git push
 ```
-<br/>
 And this is everything you need to know if you want to commit and push an existing project to github.
