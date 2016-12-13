@@ -1,6 +1,7 @@
 # Intall GIT
 
 **Install for Windows.**
+
 1. Download git from this site: https://git-scm.com 
 
 2. When you've successfully started the installer, you should see the Git Setup wizard screen.<br/>
