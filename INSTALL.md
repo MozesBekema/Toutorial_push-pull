@@ -16,6 +16,7 @@ $ git config --global user.name "Emma Paris"
 $ git config --global user.email "eparis@atlassian.com"
 ```
 **Install for Mac.**
+
 1. Download git from this site: https://git-scm.com 
 
 2. Follow the prompts to install Git.
