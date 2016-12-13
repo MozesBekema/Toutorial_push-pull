@@ -12,5 +12,5 @@ The default options are pretty sensible for most users.<br/>
 These details will be associated with any commits that you create:
 ```markdown
 $ git config --global user.name "Emma Paris"
- $ git config --global user.email "eparis@atlassian.com"
+$ git config --global user.email "eparis@atlassian.com"
 ```
