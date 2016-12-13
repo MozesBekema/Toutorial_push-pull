@@ -1,7 +1,12 @@
 # Intall GIT
 
-Download git from this site: https://git-scm.com 
+1. Download git from this site: https://git-scm.com 
 
-Install git.
+2. When you've successfully started the installer, you should see the Git Setup wizard screen.<br/>
+Follow the Next and Finish prompts to complete the installation.<br/>
+The default options are pretty sensible for most users.<br/>
 
-**Hit next a few times and you have installed it !!!!!!**
+3. Open a Command Prompt (or Git Bash if during installation you elected not to use Git from the Windows Command Prompt).
+
+4. Run the following commands to configure your Git username and email using the following commands, replacing Emma's name with your own. 
+These details will be associated with any commits that you create:
